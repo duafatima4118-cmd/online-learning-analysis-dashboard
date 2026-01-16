@@ -6,7 +6,7 @@ This project is an Excel-based dashboard created to analyze online learning plat
 ![Online Learning Dashboard](dashboard_preview.png)
 
 ## 📁 Project Files
-- `Online_Learning_Analysis.xlsx`
+- `Online Learning Analysis.xlsx`
 
 ## 🔍 Key Analysis
 - Platform-wise course completion and dropout status
